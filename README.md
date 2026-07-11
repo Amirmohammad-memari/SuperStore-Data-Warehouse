@@ -33,7 +33,7 @@ The workflow includes:
 
 The complete architecture is available in:
 
-[Project Architecture](Images/SuperStoreDWDiagram.png)
+[Project Architecture](Images/SuperStoreDW Diagram.png)
 
 ---
 
