@@ -33,7 +33,7 @@ The workflow includes:
 
 The complete architecture is available in:
 
-`Images/Architecture.png`
+[Project Architecture](Images/SuperStoreDWDiagram.png)
 
 ---
 
@@ -97,6 +97,7 @@ The ETL process was responsible for preparing raw data and loading it into the d
 ## 🏛️ Data Warehouse Design
 
 The Data Warehouse was designed using a **Snowflake Schema** approach.
+[Snowflake Schema](Images/Snowflake_Schema.png)
 
 ### Fact Table
 
